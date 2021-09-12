@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cenomart/static/css/main.fc9035fa.chunk.css",
+    "main.js": "/cenomart/static/js/main.2af11ce8.chunk.js",
+    "main.js.map": "/cenomart/static/js/main.2af11ce8.chunk.js.map",
+    "runtime-main.js": "/cenomart/static/js/runtime-main.1ace71a5.js",
+    "runtime-main.js.map": "/cenomart/static/js/runtime-main.1ace71a5.js.map",
+    "static/css/2.28bb0c3d.chunk.css": "/cenomart/static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.77d2bf4a.chunk.js": "/cenomart/static/js/2.77d2bf4a.chunk.js",
+    "static/js/2.77d2bf4a.chunk.js.map": "/cenomart/static/js/2.77d2bf4a.chunk.js.map",
+    "index.html": "/cenomart/index.html",
+    "static/css/2.28bb0c3d.chunk.css.map": "/cenomart/static/css/2.28bb0c3d.chunk.css.map",
+    "static/css/main.fc9035fa.chunk.css.map": "/cenomart/static/css/main.fc9035fa.chunk.css.map",
+    "static/js/2.77d2bf4a.chunk.js.LICENSE.txt": "/cenomart/static/js/2.77d2bf4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ace71a5.js",
+    "static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.77d2bf4a.chunk.js",
+    "static/css/main.fc9035fa.chunk.css",
+    "static/js/main.2af11ce8.chunk.js"
+  ]
+}
